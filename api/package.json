@@ -10,7 +10,6 @@
     "strapi": "strapi",
     "seed": "node script/seed.js"
   },
-  "devDependencies": {},
   "dependencies": {
     "@notum-cz/strapi-plugin-content-versioning": "^0.4.4",
     "@offset-dev/strapi-calendar": "^0.0.8",
@@ -22,7 +21,7 @@
     "fs-extra": "^10.0.0",
     "lodash": "^4.17.21",
     "lodash.set": "^4.3.2",
-    "sqlite3": "5.0.2",
+    "sqlite3": "^5.1.1",
     "strapi-plugin-entity-relationship-chart": "^4.1.0",
     "strapi-plugin-todo": "^0.0.9",
     "unzip-stream": "^0.3.1",
